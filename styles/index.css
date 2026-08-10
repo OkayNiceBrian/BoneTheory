@@ -6,6 +6,7 @@ html {
     min-width: max-content;
     margin: 0;
     padding: 0;
+    background-color: black;
 }
 
 body {
@@ -42,7 +43,7 @@ p {
     background-image: url("../assets/band.JPG");
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
 
 nav {
