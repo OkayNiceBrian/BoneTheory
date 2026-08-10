@@ -1,3 +1,3 @@
 # BoneTheory
 
-link: https://okaynicebrian.github.io/BoneTheory/index.html
+link: https://okaynicebrian.github.io/BoneTheory/
