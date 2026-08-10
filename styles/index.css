@@ -24,7 +24,7 @@ p {
     font-size: 14pt;
 }
 
-.main-container {
+.index-main-container {
     padding: 0;
     padding-top: 2rem;
     padding-bottom: 5rem;
@@ -39,6 +39,26 @@ p {
     gap: 3rem;
     margin: 0;
     background-image: url("../assets/band.JPG");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+}
+
+.shows-main-container {
+    padding: 0;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: max-content;
+    justify-content: start;
+    gap: 3rem;
+    margin: 0;
+    background-image: url("../assets/band-spanish.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
@@ -144,10 +164,6 @@ h1 {
     width: 100%;
     min-height: max-content;
     height: 100%;
-    background-image: url("../assets/band-spanish.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 .shows-grid {
